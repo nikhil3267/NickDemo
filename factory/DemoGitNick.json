@@ -1,0 +1,9 @@
+{
+	"name": "DemoGitNick",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0f753b78-4354-4ea9-8d3a-266754175427",
+		"tenantId": "7afb9e22-9308-4186-8e29-ea231ff3baf7"
+	}
+}
